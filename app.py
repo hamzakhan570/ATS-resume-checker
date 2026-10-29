@@ -14,7 +14,7 @@ JOB DESCRIPTION:
 
 RESUME TEXT:
 {resume_text[:18000]}
-"""
+
     response = client.chat.completions.create(
         model=model,
         messages=[
