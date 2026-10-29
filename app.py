@@ -1,12 +1,3 @@
-"""AI Resume ATS Checker - Streamlit + Groq.
-
-Upload a resume (PDF, DOCX or TXT) and get:
-  * an ATS score (rule-based checks blended with an AI evaluation)
-  * a breakdown by category
-  * concrete, prioritised improvement suggestions
-  * optional keyword matching against a job description
-"""
-
 import io
 import json
 import os
