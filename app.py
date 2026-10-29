@@ -4,7 +4,6 @@ import os
 import re
 
 import streamlit as st
-from docx import Document
 from groq import Groq
 from pypdf import PdfReader
 
